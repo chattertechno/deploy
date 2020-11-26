@@ -1,0 +1,17 @@
+{
+  "name": "deploy",
+  "version": "0.1.0",
+  "description": "Deploying everything to the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Renee Krom",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "path": "^0.12.7",
+    "socket.io": "^3.0.3"
+  }
+}
